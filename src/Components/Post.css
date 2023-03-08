@@ -1,0 +1,35 @@
+.display-container{
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    margin-left: 150px;
+    top: 50px;
+}
+
+input{
+    height: 30px;
+    width: 220px;
+   
+}
+.in{
+    position: relative;
+    left: 80px;
+}
+
+.home-button{
+    display: flex;
+    height: 40px;
+    width: 100px;
+    font-size: 180%;
+    color: white;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(66, 66, 217);
+}
+.submit-button{
+    height: 40px;
+    width: 100px;
+    border-radius: 4px;
+    background-color: green;
+    border: 0px solid white;
+}
